@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Survivor Mantras</string>
+    <string name="cat_morning_motivation">Reggeli Motiváció</string>
+    <string name="cat_overcoming_loneliness">Magány Leküzdése</string>
+    <string name="cat_anxiety_relief">Szorongás Oldása</string>
+    <string name="cat_self_compassion">Önegyüttérzés</string>
+    <string name="language_switcher_label">Nyelv</string>
+    <string name="english">Angol</string>
+    <string name="hungarian">Magyar</string>
+    <string name="refresh_mantra">Új Mantra</string>
+    <string name="welcome_message">Elég jó vagy!</string>
+    <string name="settings">Beállítások</string>
+    <string name="add_mantra">Mantra hozzáadása</string>
+    <string name="enter_mantra_en">Mantra (Angol)</string>
+    <string name="enter_mantra_hu">Mantra (Magyar)</string>
+    <string name="custom_mantras">Saját mantráim</string>
+    <string name="no_custom_mantras">Még nincsenek saját mantrák.</string>
+    <string name="autoplay">Automatikus lejátszás</string>
+    <string name="autoplay_off">Ki</string>
+    <string name="autoplay_interval">Időköz: %1$d másodperc</string>
+</resources>

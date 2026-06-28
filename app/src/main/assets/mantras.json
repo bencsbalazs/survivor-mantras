@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "textEn": "Today is a new beginning. I have the strength to face the day.",
+    "textHu": "A mai nap egy új kezdet. Van erőm szembenézni a nappal.",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "textEn": "I take one step at a time, and that is enough.",
+    "textHu": "Egyszerre csak egy lépést teszek, és ez elég.",
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "textEn": "I am capable of creating a peaceful morning for myself.",
+    "textHu": "Képes vagyok békés reggelt teremteni magamnak.",
+    "categoryId": 1
+  },
+  {
+    "id": 4,
+    "textEn": "I am connected to the world in ways I may not yet see.",
+    "textHu": "Kapcsolódom a világhoz olyan módon is, amit talán még nem látok.",
+    "categoryId": 2
+  },
+  {
+    "id": 5,
+    "textEn": "I am worthy of love and companionship.",
+    "textHu": "Méltó vagyok a szeretetre és a társaságra.",
+    "categoryId": 2
+  },
+  {
+    "id": 6,
+    "textEn": "My presence in this world matters.",
+    "textHu": "A jelenlétem számít ebben a világban.",
+    "categoryId": 2
+  },
+  {
+    "id": 7,
+    "textEn": "I breathe in calm, I breathe out worry.",
+    "textHu": "Belélegzem a nyugalmat, kilélegzem az aggodalmat.",
+    "categoryId": 3
+  },
+  {
+    "id": 8,
+    "textEn": "This feeling is temporary. I am safe in this moment.",
+    "textHu": "Ez az érzés átmeneti. Biztonságban vagyok ebben a pillanatban.",
+    "categoryId": 3
+  },
+  {
+    "id": 9,
+    "textEn": "I trust myself to handle whatever comes my way.",
+    "textHu": "Bízom magamban, hogy meg tudok birkózni bármivel, ami jön.",
+    "categoryId": 3
+  },
+  {
+    "id": 10,
+    "textEn": "I am doing the best I can, and that is more than enough.",
+    "textHu": "A tőlem telhető legjobbat teszem, és ez bőven elég.",
+    "categoryId": 4
+  },
+  {
+    "id": 11,
+    "textEn": "I treat myself with the same kindness I show to others.",
+    "textHu": "Ugyanolyan kedvességgel bántok magammal, mint másokkal.",
+    "categoryId": 4
+  },
+  {
+    "id": 12,
+    "textEn": "I forgive myself for my struggles and celebrate my small wins.",
+    "textHu": "Megbocsátok magamnak a küzdelmeimért, és megünneplem az apró győzelmeimet.",
+    "categoryId": 4
+  }
+]

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Survivor Mantras</string>
+    <string name="cat_morning_motivation">Morning Motivation</string>
+    <string name="cat_overcoming_loneliness">Overcoming Loneliness</string>
+    <string name="cat_anxiety_relief">Anxiety Relief</string>
+    <string name="cat_self_compassion">Self-Compassion</string>
+    <string name="language_switcher_label">Language</string>
+    <string name="english">English</string>
+    <string name="hungarian">Hungarian</string>
+    <string name="refresh_mantra">New Mantra</string>
+    <string name="welcome_message">You are good enough!</string>
+    <string name="settings">Settings</string>
+    <string name="add_mantra">Add Mantra</string>
+    <string name="enter_mantra_en">Mantra (English)</string>
+    <string name="enter_mantra_hu">Mantra (Hungarian)</string>
+    <string name="custom_mantras">My Custom Mantras</string>
+    <string name="no_custom_mantras">No custom mantras yet.</string>
+    <string name="autoplay">Autoplay</string>
+    <string name="autoplay_off">Off</string>
+    <string name="autoplay_interval">Interval: %1$d seconds</string>
+</resources>
